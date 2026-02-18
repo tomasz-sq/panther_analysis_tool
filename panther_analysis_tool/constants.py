@@ -14,6 +14,7 @@ from panther_analysis_tool.schemas import (
     RULE_SCHEMA,
     SAVED_QUERY_SCHEMA,
     SCHEDULED_QUERY_SCHEMA,
+    SQL_LOOKUP_TABLE_SCHEMA,
 )
 
 PACKAGE_NAME: Final = "panther_analysis_tool"
